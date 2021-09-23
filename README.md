@@ -11,5 +11,4 @@
 * [How to update a wallet](https://github.com/decenomy/docs/releases/latest/download/How.to.update.a.wallet.pdf)
 * [How to use the DECENOMY wallets](https://github.com/decenomy/docs/releases/latest/download/How.to.use.the.DECENOMY.wallets.pdf)
 * [How to stake coins](https://github.com/decenomy/docs/releases/latest/download/How.to.stake.coins.pdf)
-
-
+* [Staking optimization and common problems](https://github.com/decenomy/docs/releases/latest/download/Staking.optimization.and.common.problems.pdf)
