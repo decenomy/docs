@@ -1,4 +1,4 @@
-# DECENOMY Documentation 
+# DECENOMY Documentation
 
 * [How to add addnodes](https://github.com/decenomy/docs/releases/latest/download/How.to.add.addnodes.pdf)
 * [How to buy DECENOMY coins on Heliobank](https://github.com/decenomy/docs/releases/latest/download/How.to.buy.DECENOMY.coins.on.Heliobank.pdf)
