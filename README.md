@@ -16,3 +16,4 @@
 * [Staking statistics on VaultWatch](https://github.com/decenomy/docs/releases/latest/download/Staking.statistics.on.VaultWatch.pdf)
 * [How to manage masternode sharing on Crypos](https://github.com/decenomy/docs/releases/latest/download/How.to.manage.masternode.sharing.on.Crypos.pdf)
 * [How to secure your environment](https://github.com/decenomy/docs/releases/latest/download/How.to.secure.your.environment.pdf)
+* [How to secure your PC](https://github.com/decenomy/docs/releases/latest/download/How.to.secure.your.PC.pdf)
