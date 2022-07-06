@@ -19,3 +19,4 @@
 * [How to secure your PC](https://github.com/decenomy/docs/releases/latest/download/How.to.secure.your.PC.pdf)
 * [So, what is a Masternode?](https://github.com/decenomy/docs/releases/latest/download/So.what.is.a.Masternode.pdf)
 * [How to stake on a VPS](https://github.com/decenomy/docs/releases/latest/download/How.to.stake.on.a.VPS.pdf)
+* [How to restore a backup from an USB stick](https://github.com/decenomy/docs/releases/latest/download/How.to.restore.a.backup.from.an.USB.stick.pdf)
